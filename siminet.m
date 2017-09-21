@@ -13,15 +13,11 @@ function [sim,distance]=siminet(matrice1, matrice2,substitution,rayon)
 %           
 % Authors: Ahmad Mheich, Mahmoud Hassan, Fabrice Wendling
 %
-% contacts: LTSI-Université de Rennes 1 
+% contacts: LTSI-UniversitÃ© de Rennes 1 
 %           ahmad.mheish@hotmail.com        
 %           
 %%
-%
-%
-
 s_n=0;
-
 number_nodes=size(matrice1,1);
 node1_index=find(sum(matrice1));
 node2_index=find(sum(matrice2));
