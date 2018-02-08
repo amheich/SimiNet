@@ -1,2 +1,2 @@
 # SimiNet
-To quantifying the similarity between networks
+To quantify similarity between networks
