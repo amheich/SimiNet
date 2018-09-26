@@ -14,7 +14,7 @@ function [sim,distance]=siminet(matrice1, matrice2,substitution,rayon)
 % Authors: Ahmad Mheich, Mahmoud Hassan, Fabrice Wendling
 %
 % contacts: LTSI-Université de Rennes 1 
-%           ahmad.mheish@hotmail.com        
+%           mheich.ahmad@gmail.com
 %           
 %%
 s_n=0;
